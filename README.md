@@ -2,8 +2,6 @@
 
 This is Bound Round's Ruby Style Guide.
 
-It was inspired by [Github's guide](github-ruby) and [Bozhidar Batsov's guide](bbatsov-ruby).
-
 Bound Round also maintains a [JavaScript Style
 Guide](https://github.com/boundround/javascript).
 
